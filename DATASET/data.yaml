@@ -1,0 +1,7 @@
+train: /mnt/f/final2/DATASET/train/images
+val: /mnt/f/final2/DATASET/val/images
+test: /mnt/f/final2/DATASET/test/images
+
+nc: 4
+
+names: ['Longitudinal cracks', 'Transverse cracks', 'Alligator cracks', 'Potholes']
